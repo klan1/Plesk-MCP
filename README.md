@@ -50,6 +50,9 @@ The server requires the following environment variables:
 - **Client**: Axios
 
 ---
+
 **Alejandro Trujillo Jiménez**
+
 **Klan1 Labs - R&D Team**
+
 **Website: klan1.com**
