@@ -1,11 +1,12 @@
 {
   "name": "plesk-mcp",
-  "version": "1.0.0",
-  "description": "MCP Server for Plesk Panel management",
+  "version": "2.1.0",
+  "description": "MCP Server for Plesk Panel management (V2.1 with SSH and REST API)",
   "main": "index.js",
   "type": "module",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "ssh2": "^1.15.0"
   }
 }
