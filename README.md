@@ -50,5 +50,6 @@ The server requires the following environment variables:
 - **Client**: Axios
 
 ---
-**Developed by the R&D Team**
-*Engineering reliability and AI-driven infrastructure.*
+**Alejandro Trujillo Jiménez**
+**Klan1 Labs - R&D Team**
+**Website: klan1.com**
