@@ -48,8 +48,7 @@ The server requires both REST and SSH credentials:
 - **Language**: Node.js (ES Modules)
 - **Client**: Axios & ssh2
 
----
-
-Alejandro Trujillo Jiménez
-**Klan1 Labs - R&D Team**
+---\
+Alejandro Trujillo Jiménez\
+**Klan1 Labs - R&D Team**\
 Website: **[klan1.com](https://klan1.com)**
