@@ -50,8 +50,6 @@ The server requires both REST and SSH credentials:
 
 ---
 
-**Alejandro Trujillo Jiménez**
-
+Alejandro Trujillo Jiménez
 **Klan1 Labs - R&D Team**
-
-**Website: klan1.com**
+Website: **[klan1.com](https://klan1.com)**
